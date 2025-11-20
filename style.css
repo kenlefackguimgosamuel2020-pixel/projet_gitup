@@ -185,3 +185,14 @@ footer .social-media p:hover {
 .header-small h1 {
   font-size: 2rem;
 }
+
+.header-small {
+  background: linear-gradient(to right, #007bff, #00c6ff);
+  color: white;
+  padding: 70px 20px;
+  text-align: center;
+}
+
+.header-small h1 {
+  font-size: 2rem;
+}
